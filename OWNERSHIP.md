@@ -6,10 +6,10 @@
 
 ## 👤 CREATOR AND OWNER
 
-**Primary Creator:** [Your Name]  
+**Primary Creator:** Pranav Bhave 
 **Creation Date:** August 2025  
 **Legal Entity:** Ghost Protocol Foundation  
-**Governing Law:** [Your Jurisdiction]
+**Governing Law:** Pennsylvania, United States
 
 ---
 
