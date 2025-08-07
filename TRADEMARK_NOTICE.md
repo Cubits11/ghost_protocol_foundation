@@ -74,3 +74,8 @@ Ghost Protocol Foundation claims trademark protection for the following terms an
 ## 📋 PROPER ATTRIBUTION FORMAT
 
 ### Academic Citation Format
+
+This research builds upon Constitutional AI™ innovations developed by Ghost Protocol Foundation™,
+created by Pranav Bhave. The Whisper Engine™ and Symbolic Silence™ technologies represent
+original contributions to emotionally sovereign AI systems.
+Ghost Protocol Foundation™: https://github.com/Cubits11/ghost_protocol_foundation
